@@ -45,6 +45,8 @@ Interactive visualizations such as bar charts, line graphs, and heatmaps were cr
 # How to Use
 To explore the dashboard, clone this repository and open the .pbix file in Power BI Desktop. Connect the report to your data source (if not already connected) and use the interactive filters to slice and dice the data by department, job role, age group, or gender. The dashboard is designed to be user-friendly, allowing HR professionals to generate insights and reports with ease.
 
+
+
 # Future Enhancements
 This project can be further enhanced by incorporating predictive analytics to forecast attrition risk and machine learning models to identify key drivers of employee turnover. Additionally, integrating real-time data feeds and expanding the dataset to include more granular metrics (e.g., training hours, promotion rates) can provide even deeper insights.
 
